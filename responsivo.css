@@ -1,0 +1,25 @@
+@media screen and (max-width:800px){
+    
+    #card{
+        width: 280px;
+        
+    }
+
+    #card img{
+        width: 90px;
+        
+    }
+
+    #perfil p{
+        font-size: 13px;
+    }
+    
+    #perfil h1{
+        font-size: 25px;
+    }
+
+    #social-links a{
+        padding: 10px 50px;
+        
+    }
+}
